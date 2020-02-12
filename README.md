@@ -1,5 +1,7 @@
 Title: Perceptron model for only a pair of inputs and its targeted output
+
 Author: Md. Abdul Haq
+
 Date: 12th February,2020
 
 
